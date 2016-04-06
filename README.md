@@ -28,13 +28,13 @@ There are two choice:
 
 
 
-2.Input some info (choose "Initialize this repository with a README")
+2. Input some info (choose "Initialize this repository with a README")
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/info.JPG)
 
 
 
-3.Clone data to local file
+3. Clone data to local file
 
 ● Find the Http clone URL 
 
@@ -66,4 +66,8 @@ And the files will be downloaded in your local file
 
 -`$ git push `
 
+●  Modify data
 
+-`$ git commit -a -m "Version1"`
+
+-`$ git push `
