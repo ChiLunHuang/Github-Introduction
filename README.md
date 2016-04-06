@@ -3,19 +3,23 @@ This repository is for Github Introduction, including git downloading, clone dat
 
 Before starting, you have to complete two steps.
 
-First step:sign up
+First step: sign up
 
 [https://github.com/](https://github.com/)
 
 
 
-Second step:dowmload platform:
+Second step: dowmload platform
 
-There are two choice
+There are two choice:
 
-1.window platform: https://desktop.github.com/
+1. Window platform: 
 
-2.git: https://git-scm.com/ (This one is command line )
+https://desktop.github.com/
+
+2. Git: 
+
+https://git-scm.com/ (command line style)
 
 
 
