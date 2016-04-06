@@ -21,7 +21,7 @@ There are two choice:
 
 # Create repositories and use Git to update, clone, modify files
 
-1.Create repositories
+● ★Create repositories
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
 
