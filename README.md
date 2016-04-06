@@ -40,8 +40,15 @@ There are two choice:
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
 
-● Open the Git you donwloaded before and input the command
+● Open the Git you donwloaded before
+
+● input the command
 
 - $ git  clone https://github.com/ChiLunHuang/Github-Introduction.git
 
-![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
+![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/clone.JPG)
+
+
+
+
+
