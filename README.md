@@ -13,13 +13,9 @@ Second step: dowmload platform
 
 There are two choice:
 
-1. Window platform: 
+1. Window platform: https://desktop.github.com/
 
-https://desktop.github.com/
-
-3. Git: 
-
-https://git-scm.com/ (command line style)
+2. Git: https://git-scm.com/ (command line style)
 
 
 ![alt tag](hhttps://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
