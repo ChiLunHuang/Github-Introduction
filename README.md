@@ -17,12 +17,12 @@ There are two choice:
 
 https://desktop.github.com/
 
-2. Git: 
+3. Git: 
 
 https://git-scm.com/ (command line style)
 
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
+![alt tag](hhttps://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
 
 
 
