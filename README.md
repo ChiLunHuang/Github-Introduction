@@ -46,7 +46,7 @@ There are two choice:
 
 And the files will be downloaded in your local file
 
-- $ git  clone https://github.com/ChiLunHuang/Github-Introduction.git
+- `$ git  clone https://github.com/ChiLunHuang/Github-Introduction.git`
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/clone.JPG)
 
