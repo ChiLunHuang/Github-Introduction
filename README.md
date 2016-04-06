@@ -24,5 +24,5 @@ https://git-scm.com/ (command line style)
 
 
 
-http://sanfubrunch.github.io/web/img/c5.jpg
+(http://sanfubrunch.github.io/web/img/c5.jpg)
 
