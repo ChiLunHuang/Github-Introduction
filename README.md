@@ -19,7 +19,7 @@ There are two choice:
 
 
 
-# Create repositories and use Git to update, clone, modify files
+# Create repositories and use Git to clone files
 
 1. Create repositories
 
@@ -42,13 +42,24 @@ There are two choice:
 
 ● Open the Git you donwloaded before
 
-● input the command
+● Input the command
+
+And the files will be downloaded in your local file
 
 - $ git  clone https://github.com/ChiLunHuang/Github-Introduction.git
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/clone.JPG)
 
+# Easy to update, modify files
 
+● Open the Git command line console
 
+-Redirect the destination,such as cd d:, cd d/Github-Introduction/img
+
+● Add data
+
+-$ git add .
+-$ git commit -m "Version1"
+-$ git push 
 
 
