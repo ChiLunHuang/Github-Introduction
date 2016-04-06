@@ -21,9 +21,12 @@ There are two choice:
 
 # Create repositories and use Git to update, clone, modify files
 
-● ★Create repositories
+1. Create repositories
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
+
+
+
 
 2.Input some info (choose "Initialize this repository with a README")
 
@@ -31,4 +34,14 @@ There are two choice:
 
 
 
+3.Clone data to local file
 
+● Find the Http clone URL 
+
+![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
+
+● Open the Git you donwloaded before and input the command
+
+- $ git  clone https://github.com/ChiLunHuang/Github-Introduction.git
+
+![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
