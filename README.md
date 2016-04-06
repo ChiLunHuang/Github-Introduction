@@ -18,7 +18,7 @@ There are two choice:
 2. Git: https://git-scm.com/ (command line style)
 
 
-![alt tag](hhttps://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
+![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
 
 
 
