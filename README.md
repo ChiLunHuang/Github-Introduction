@@ -54,12 +54,16 @@ And the files will be downloaded in your local file
 
 ● Open the Git command line console
 
--Redirect the destination,such as cd d:, cd d/Github-Introduction/img
+-Redirect the destination, such as 
+
+"cd d:" or "cd d/Github-Introduction/img"
 
 ● Add data
 
 -$ git add .
+
 -$ git commit -m "Version1"
+
 -$ git push 
 
 
