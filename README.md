@@ -9,9 +9,12 @@ First step:sign up
 
 
 
-Second step:dowmload platform:</br>
-There are two choice</br>
-1.window platform: https://desktop.github.com/</br>
+Second step:dowmload platform:
+
+There are two choice
+
+1.window platform: https://desktop.github.com/
+
 2.git: https://git-scm.com/ (This one is command line )
 
 
