@@ -70,3 +70,7 @@ Redirect the destination, such as
 -`$ git commit -a -m "Version1"`
 
 -`$ git push `
+
+# Others
+
+>Basic writing and formatting syntax on [GitHub Pages](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
