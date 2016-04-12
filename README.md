@@ -3,13 +3,13 @@ This repository is for Github Introduction, including git downloading, clone dat
 
 Before starting, you have to complete two steps.
 
-First step: sign up
+## First step: sign up
 
 [https://github.com/](https://github.com/)
 
 
 
-Second step: dowmload platform
+## Second step: dowmload platform
 
 There are two choice:
 
@@ -21,20 +21,20 @@ There are two choice:
 
 # Create repositories and use Git to clone files
 
-1. Create repositories
+## 1. Create repositories
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/Addnew.JPG)
 
 
 
 
-2. Input some info (choose "Initialize this repository with a README")
+## 2. Input some info (choose "Initialize this repository with a README")
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/info.JPG)
 
 
 
-3. Clone data to local file
+## 3. Clone data to local file
 
 ● Find the Http clone URL 
 
