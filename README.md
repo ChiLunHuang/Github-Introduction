@@ -36,13 +36,12 @@ There are two choice:
 
 ## 3. Clone data to local file
 
-**Find the Http clone URL**
+###**Find the Http clone URL**
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
 
-**Open the Git you donwloaded before**
+###**Open the Git you donwloaded before and input the command**
 
-**Input the command**
 
 And the files will be downloaded in your local file
 
@@ -54,7 +53,7 @@ And the files will be downloaded in your local file
 
 **Open the Git command line console**
 
--Redirect the destination, such as 
+Redirect the destination, such as 
 
 `cd d:` or `cd d/Github-Introduction/img`
 
