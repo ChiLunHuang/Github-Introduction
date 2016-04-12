@@ -5,7 +5,7 @@ Before starting, you have to complete two steps.
 
 ## First step: sign up
 
-[https://github.com/](https://github.com/)
+> [https://github.com/](https://github.com/)
 
 
 
@@ -13,9 +13,9 @@ Before starting, you have to complete two steps.
 
 There are two choice:
 
-1. Window platform: https://desktop.github.com/
+> 1. Window platform: https://desktop.github.com/
 
-2. Git: https://git-scm.com/ (command line style)
+> 2. Git: https://git-scm.com/ (command line style)
 
 
 
@@ -36,13 +36,13 @@ There are two choice:
 
 ## 3. Clone data to local file
 
-**● Find the Http clone URL **
+**Find the Http clone URL**
 
 ![alt tag](https://raw.githubusercontent.com/ChiLunHuang/Github-Introduction/master/img/cloneHttp.JPG)
 
-** ● Open the Git you donwloaded before**
+**Open the Git you donwloaded before**
 
-** ● Input the command**
+**Input the command**
 
 And the files will be downloaded in your local file
 
@@ -52,13 +52,13 @@ And the files will be downloaded in your local file
 
 # Easy to update, modify files
 
-** ● Open the Git command line console **
+**Open the Git command line console**
 
 -Redirect the destination, such as 
 
 `cd d:` or `cd d/Github-Introduction/img`
 
-** ● Add data **
+**Add data**
 
 -`$ git add .`
 
@@ -66,7 +66,7 @@ And the files will be downloaded in your local file
 
 -`$ git push `
 
-** ●  Modify data **
+**Modify data**
 
 -`$ git commit -a -m "Version1"`
 
