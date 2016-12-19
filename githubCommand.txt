@@ -1,0 +1,35 @@
+
+faj5rL8i8wN
+
+第一次上傳
+
+$ git  clone https://github.com/SanFuBrunch/web.git
+$ cd /d/web
+$ touch README.md
+$ git init
+$ git  add README.md
+$  git add -A
+ 要新增資料到資料夾
+$ git commit -m "Version1"
+$ git remote add origin https://github.com/SanFuBrunch/web.git
+$ git push -u origin master
+
+
+新增資料
+$ git  clone https://github.com/SanFuBrunch/web.git
+$ cd /d/web
+$  git add .
+$ git commit -m "Version1"
+$ git remote add origin https://github.com/SanFuBrunch/web.git
+$ git push  origin gh-pages
+
+更新上傳
+$ git  clone https://github.com/SanFuBrunch/web.git
+$ cd /d/web
+$ git commit -a -m "Version1"
+$ git remote add origin https://github.com/SanFuBrunch/web.git
+$ git push  origin gh-pages
+
+
+/////////////////////////////////////
+
